@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Gui_Test.Gui_Test">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="3" y="105" width="463" height="312"/>
+    </constraints>
+    <properties>
+      <enabled value="true"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="f1fcb" class="javax.swing.JTextField" binding="yourCircleSRadiusTextField" default-binding="true">
+        <constraints/>
+        <properties>
+          <background color="-65319"/>
+          <font name="Impact" size="16"/>
+          <foreground color="-11862250"/>
+          <text value="Your Circle's Radius!"/>
+        </properties>
+      </component>
+      <component id="bd851" class="javax.swing.JButton" binding="calculateButton" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="Calculate"/>
+        </properties>
+      </component>
+      <component id="c821d" class="javax.swing.JComboBox" binding="comboBox1" default-binding="true">
+        <constraints/>
+        <properties>
+          <model>
+            <item value="Area"/>
+            <item value="Circufrence"/>
+            <item value="Diameter"/>
+            <item value="Surface Area"/>
+            <item value="Volume"/>
+          </model>
+        </properties>
+      </component>
+      <component id="c83e3" class="javax.swing.JProgressBar" binding="progressBar1" default-binding="true">
+        <constraints/>
+        <properties>
+          <background color="-1558236"/>
+          <enabled value="false"/>
+          <indeterminate value="false"/>
+          <string value="55%"/>
+          <stringPainted value="true"/>
+          <value value="55"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

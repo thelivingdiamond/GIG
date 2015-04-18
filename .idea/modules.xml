@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GIG.iml" filepath="$PROJECT_DIR$/GIG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI Test/GUI Test.iml" filepath="$PROJECT_DIR$/GUI Test/GUI Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MInecraftPlugins/MInecraftPlugins.iml" filepath="$PROJECT_DIR$/MInecraftPlugins/MInecraftPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>

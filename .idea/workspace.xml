@@ -1,0 +1,1392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="794146ff-6775-46ba-9221-c48d3faab7df" name="Default" comment="All of Gig">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/UnusedCrap/._Carb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/UnusedCrap/._Carb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/UnusedCrap/._Carb2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/UnusedCrap/._Carb2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/UnusedCrap/._GIG_Player.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/UnusedCrap/._GIG_Player.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/UnusedCrap/._craft.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/UnusedCrap/._craft.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/UnusedCrap/._explosion.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/UnusedCrap/._explosion.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/UnusedCrap/._missile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/UnusedCrap/._missile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/UnusedCrap/._missile2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/UnusedCrap/._missile2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI Test/com/intellij/uiDesigner/core/AbstractLayout.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/FrameworkTextures/Background.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Framework/FrameworkTextures/Background.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/Board$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/Board$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/Board$11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/Board$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/Board$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/Board$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/Board$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/Board$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/Board$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/Board$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/Board$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/Board$STATE.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/Board.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Mobs/Carb.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/UnusedCrap/Carb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/UnusedCrap/Carb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/UnusedCrap/Carb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/UnusedCrap/Carb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Mobs/MobTextures/Carb2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Mobs/MobTextures/Carb2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/Craft.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Cyclops.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI Test/com/intellij/uiDesigner/core/DimensionInfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI Test/Gui_Test/ENENENENbleRUUUU$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI Test/Gui_Test/ENENENENbleRUUUU.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI Test/Gui_Test/ENENENble$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI Test/Gui_Test/ENENENble.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI Test/Gui_Test/ENENENble2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/Emeny.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Mobs/MobTextures/EyeBALLZ.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Mobs/MobTextures/EyeBALLZ.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Mobs/MobTextures/EyeBALLZ.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Mobs/MobTextures/EyeBALLZ.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Mobs/EyeBallz.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/FrameworkTextures/GIG_Player.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Framework/FrameworkTextures/GIG_Player.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI Test/com/intellij/uiDesigner/core/GridConstraints.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI Test/com/intellij/uiDesigner/core/GridLayoutManager.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI Test/Gui_Test/GuiRunner.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI Test/Gui_Test/Gui_Test$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI Test/Gui_Test/Gui_Test$buttonHandler.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI Test/Gui_Test/Gui_Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI Test/com/intellij/uiDesigner/core/HorizontalInfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Joklop.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI Test/com/intellij/uiDesigner/core/LayoutState.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Looper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/PhysicsSim.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Projectiles/ProjectileTextures/Plasma Bolt.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Projectiles/ProjectileTextures/Plasma Bolt.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/UnusedCrap/Plasma Bolt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/UnusedCrap/Plasma Bolt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Projectiles/PlasmaRocketProjectile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/Projectile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI Test/com/intellij/uiDesigner/core/Spacer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI Test/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI Test/com/intellij/uiDesigner/core/SupportCode.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/UnusedCrap/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/Thing.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Framework/FrameworkTextures/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Mobs/MobTextures/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/UnusedCrap/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Framework/FrameworkTextures/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Mobs/MobTextures/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/UnusedCrap/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI Test/com/intellij/uiDesigner/core/Util.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GUI Test/com/intellij/uiDesigner/core/VerticalInfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/UnusedCrap/alien.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/UnusedCrap/alien.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/UnusedCrap/craft.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/UnusedCrap/craft.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/UnusedCrap/download.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/UnusedCrap/download.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/UnusedCrap/explosion.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/UnusedCrap/explosion.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/UnusedCrap/missile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/UnusedCrap/missile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/UnusedCrap/missile2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/UnusedCrap/missile2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/UnusedCrap/ppo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Framework/Board.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Mobs/Carb.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Framework/Craft.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Mobs/Cyclops.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GUI Test/src/Gui_Test/ENENENENbleRUUUU.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GUI Test/src/Gui_Test/ENENENble.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GUI Test/src/Gui_Test/ENENENble2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Framework/Emeny.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Mobs/EyeBallz.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GIG.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GUI Test/GUI Test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GUI Test/src/Gui_Test/GuiRunner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GUI Test/src/Gui_Test/Gui_Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Mobs/Joklop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Mobs/Looper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Framework/PhysicsSim.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Projectiles/PlasmaRocketProjectile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Framework/Projectile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/UnusedCrap/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GUI Test/src/Gui_Test/TestOfGui.form" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Framework/Thing.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GIG/GIG/Classes/Gui/mainMenu.jfd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/Classes/Gui/mainMenu.jfd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GIG/UnusedCrap/ppo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/spigot_1_8_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/spigot_1_8_31.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="GIG.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel class="Gui_Test.Gui_Test" />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="GIG" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Board.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GIG/Classes/Framework/Board.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="3145" max-vertical-offset="6868">
+              <caret line="203" column="38" selection-start-line="203" selection-start-column="38" selection-end-line="203" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#addNotify#0;class#Board#0" expanded="false" />
+                <element signature="method#actionPerformed#0;class#Board#0" expanded="false" />
+                <element signature="e#16438#16439#0" expanded="true" />
+                <element signature="e#16516#16517#0" expanded="true" />
+                <element signature="e#16862#16863#0" expanded="true" />
+                <element signature="e#16923#16924#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ENENENble.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GUI Test/src/Gui_Test/ENENENble.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="612">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ENENENENbleRUUUU.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GUI Test/src/Gui_Test/ENENENENbleRUUUU.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.55128205" vertical-offset="516" max-vertical-offset="1411">
+              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Looper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GIG/Classes/Mobs/Looper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+              <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Joklop.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GIG/Classes/Mobs/Joklop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+              <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ENENENble2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GUI Test/src/Gui_Test/ENENENble2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="425">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PhysicsSim.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GIG/Classes/Framework/PhysicsSim.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="850">
+              <caret line="21" column="25" selection-start-line="16" selection-start-column="8" selection-end-line="21" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#mouseMoved#0;class#PhysicsSim#0" expanded="false" />
+                <element signature="method#mouseDragged#0;class#PhysicsSim#0" expanded="false" />
+                <element signature="method#mousePressed#0;class#PhysicsSim#0" expanded="false" />
+                <element signature="method#mouseReleased#0;class#PhysicsSim#0" expanded="false" />
+                <element signature="method#mouseEntered#0;class#PhysicsSim#0" expanded="false" />
+                <element signature="method#mouseExited#0;class#PhysicsSim#0" expanded="false" />
+                <element signature="method#mouseClicked#0;class#PhysicsSim#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GuiRunner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GUI Test/src/Gui_Test/GuiRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="527">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestOfGui.form" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GUI Test/src/Gui_Test/TestOfGui.form">
+          <provider selected="true" editor-type-id="ui-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Component.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/awt/Component.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="146256" max-vertical-offset="164594">
+              <caret line="9007" column="39" selection-start-line="9007" selection-start-column="39" selection-end-line="9007" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../untitled/src/me/thelivingdiamond/Main.java" />
+        <option value="$PROJECT_DIR$/src/GIG/PhysicsSim.java" />
+        <option value="$PROJECT_DIR$/src/GIG/PlasmaRocketProjectile.java" />
+        <option value="$PROJECT_DIR$/src/GIG/Board.java" />
+        <option value="$PROJECT_DIR$/src/GIG/Classes/Textures/TextureLoader.java" />
+        <option value="$PROJECT_DIR$/src/GIG/Carb.java" />
+        <option value="$PROJECT_DIR$/src/GIG/Craft.java" />
+        <option value="$PROJECT_DIR$/src/GIG/Classes/Projectiles/Projectile.java" />
+        <option value="$PROJECT_DIR$/src/GIG/Classes/Framework/Emeny.java" />
+        <option value="$PROJECT_DIR$/src/GIG/Classes/Framework/Thing.java" />
+        <option value="$PROJECT_DIR$/src/GIG/Classes/Mobs/Cyclops.java" />
+        <option value="$PROJECT_DIR$/src/GIG/Classes/Mobs/Carb.java" />
+        <option value="$PROJECT_DIR$/src/GIG/Classes/Projectiles/PlasmaRocketProjectile.java" />
+        <option value="$PROJECT_DIR$/src/GIG/Classes/Framework/PhysicsSim.java" />
+        <option value="$PROJECT_DIR$/src/GIG/Classes/Framework/Craft.java" />
+        <option value="$PROJECT_DIR$/src/GIG/Classes/Framework/Projectile.java" />
+        <option value="$PROJECT_DIR$/src/GIG/Classes/Reference/Reference.java" />
+        <option value="$PROJECT_DIR$/src/GIG/UnusedTextures/Test.java" />
+        <option value="$PROJECT_DIR$/src/GIG/UnusedCrap/Test.java" />
+        <option value="$PROJECT_DIR$/src/GIG/Classes/Mobs/EyeBallz.java" />
+        <option value="$PROJECT_DIR$/GUI Test/src/Gui_Test/TestOfGui.form" />
+        <option value="$PROJECT_DIR$/src/GIG/Classes/Framework/Board.java" />
+        <option value="$PROJECT_DIR$/GUI Test/src/Gui_Test/GuiRunner.java" />
+        <option value="$PROJECT_DIR$/GUI Test/src/Gui_Test/Gui_Test.java" />
+        <option value="$PROJECT_DIR$/GUI Test/src/Gui_Test/ENENENble2.java" />
+        <option value="$PROJECT_DIR$/GUI Test/src/Gui_Test/ENENENble.java" />
+        <option value="$PROJECT_DIR$/src/GIG/Classes/Mobs/Looper.java" />
+        <option value="$PROJECT_DIR$/src/GIG/Classes/Mobs/Joklop.java" />
+        <option value="$PROJECT_DIR$/GUI Test/src/Gui_Test/ENENENENbleRUUUU.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GIG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GIG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GIG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GIG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GIG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GIG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GIG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GIG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GIG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GIG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GIG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GIG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GIG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GIG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GUI Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GIG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GIG" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GUI Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gui_Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE" value="ToolWindow" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="GIG.Phy&#9;PSI&#9;JAVA://GIG.Classes.Framework.PhysicsSim" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\theli_000\Desktop\All da folders\Coding copy\GIG\src\GIG" />
+      <recent name="C:\Users\theli_000\Desktop\All da folders\Coding copy\GIG\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\theli_000\Desktop\All da folders\Coding copy\GIG\src\GIG\Classes\Framework\FrameworkTextures" />
+      <recent name="C:\Users\theli_000\Desktop\All da folders\Coding copy\GIG\src\GIG\Textures" />
+      <recent name="C:\Users\theli_000\Desktop\All da folders\Coding copy\GIG\src\GIG" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Gui_Test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ENENENENbleRUUUU">
+    <configuration default="false" name="PhysicsSim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="GIG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="GIG.Classes.Framework.PhysicsSim" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="GIG" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Gui_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Gui_Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Gui_Test.Gui_Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="GUI Test" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ENENENENbleRUUUU" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Gui_Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Gui_Test.ENENENENbleRUUUU" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="GUI Test" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="PhysicsSim (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="GIG.Classes.Framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="GIG.Classes.Framework.PhysicsSim" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="GIG" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Application.PhysicsSim (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PhysicsSim" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Gui_Test" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ENENENENbleRUUUU" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.ENENENENbleRUUUU" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Gui_Test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PhysicsSim" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="794146ff-6775-46ba-9221-c48d3faab7df" name="Default" comment="" />
+      <created>1426909571883</created>
+      <option name="number" value="Default" />
+      <updated>1426909571883</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.11875945" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" x="621" y="77" width="124" height="584" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3279743" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17700455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31993568" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24886535" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18327974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22311397" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.11875945" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" x="621" y="77" width="124" height="584" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279743" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31993568" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17700455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24886535" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18327974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22311397" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="All of Gig" />
+    <option name="LAST_COMMIT_MESSAGE" value="All of Gig" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="16" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/GUI Test/src/Gui_Test/Gui_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1462">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI Test/src/Gui_Test/TestOfGui.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3671" max-vertical-offset="91715">
+          <caret line="290" column="28" selection-start-line="290" selection-start-column="28" selection-end-line="290" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI Test/src/Gui_Test/GuiRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="544">
+          <caret line="25" column="1" selection-start-line="10" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI Test/src/Gui_Test/Gui_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="680">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI Test/src/Gui_Test/TestOfGui.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3671" max-vertical-offset="91715">
+          <caret line="290" column="28" selection-start-line="290" selection-start-column="28" selection-end-line="290" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3671" max-vertical-offset="91715">
+          <caret line="290" column="28" selection-start-line="290" selection-start-column="28" selection-end-line="290" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GIG.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../untitled/src/me/thelivingdiamond/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../untitled/src/me/thelivingdiamond/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2989011" vertical-offset="0" max-vertical-offset="455">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GIG.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="588">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/UnusedCrap/._Carb.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/UnusedCrap/._Carb2.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/UnusedCrap/Carb.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/UnusedCrap/Plasma Bolt.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/UnusedCrap/ppo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/UnusedCrap/._missile.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/UnusedCrap/alien.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/UnusedCrap/download.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/UnusedCrap/explosion.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/UnusedCrap/craft.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/Classes/Framework/Emeny.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/Classes/Framework/Thing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/Classes/Gui/mainMenu.jfd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="376">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/Classes/Mobs/Cyclops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="731">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/jre/lib/rt.jar!/sun/misc/Launcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.84" vertical-offset="4486" max-vertical-offset="5865">
+          <caret line="307" column="0" selection-start-line="307" selection-start-column="0" selection-end-line="307" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33161953" vertical-offset="3135" max-vertical-offset="60095">
+          <caret line="259" column="0" selection-start-line="259" selection-start-column="0" selection-end-line="259" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33161953" vertical-offset="4852" max-vertical-offset="36295">
+          <caret line="356" column="0" selection-start-line="356" selection-start-column="0" selection-end-line="356" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33161953" vertical-offset="5056" max-vertical-offset="12580">
+          <caret line="359" column="0" selection-start-line="359" selection-start-column="0" selection-end-line="359" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/Classes/Projectiles/PlasmaRocketProjectile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1717">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/Classes/Framework/Projectile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/Classes/Framework/Craft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="24" max-vertical-offset="1071">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/UnusedCrap/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/javax/swing/ImageIcon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2854" max-vertical-offset="10948">
+          <caret line="216" column="0" selection-start-line="216" selection-start-column="0" selection-end-line="216" selection-end-column="0" />
+          <folding>
+            <element signature="e#6757#6758#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/Classes/Mobs/Carb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="816">
+          <caret line="48" column="5" selection-start-line="10" selection-start-column="3" selection-end-line="48" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/Classes/Mobs/EyeBallz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="302" max-vertical-offset="901">
+          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI Test/src/Gui_Test/Gui_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="986" max-vertical-offset="1666">
+          <caret line="75" column="25" selection-start-line="75" selection-start-column="25" selection-end-line="75" selection-end-column="25" />
+          <folding>
+            <element signature="e#809#1155#0" expanded="true" />
+            <element signature="e#1154#1155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/javax/accessibility/AccessibleContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="855" max-vertical-offset="12308">
+          <caret line="82" column="22" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/javax/accessibility/AccessibleState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2079" max-vertical-offset="6001">
+          <caret line="156" column="40" selection-start-line="156" selection-start-column="40" selection-end-line="156" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#13438#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#13404#13405#0" expanded="false" />
+            <element signature="e#13434#13435#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="59050" max-vertical-offset="91715">
+          <caret line="3637" column="28" selection-start-line="3637" selection-start-column="28" selection-end-line="3637" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_31/src.zip!/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="146256" max-vertical-offset="164594">
+          <caret line="9007" column="39" selection-start-line="9007" selection-start-column="39" selection-end-line="9007" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI Test/src/Gui_Test/TestOfGui.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/Classes/Framework/PhysicsSim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="850">
+          <caret line="21" column="25" selection-start-line="16" selection-start-column="8" selection-end-line="21" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#mouseMoved#0;class#PhysicsSim#0" expanded="false" />
+            <element signature="method#mouseDragged#0;class#PhysicsSim#0" expanded="false" />
+            <element signature="method#mousePressed#0;class#PhysicsSim#0" expanded="false" />
+            <element signature="method#mouseReleased#0;class#PhysicsSim#0" expanded="false" />
+            <element signature="method#mouseEntered#0;class#PhysicsSim#0" expanded="false" />
+            <element signature="method#mouseExited#0;class#PhysicsSim#0" expanded="false" />
+            <element signature="method#mouseClicked#0;class#PhysicsSim#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI Test/src/Gui_Test/ENENENble2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="425">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI Test/src/Gui_Test/ENENENble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="612">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI Test/src/Gui_Test/GuiRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="81" max-vertical-offset="527">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/Classes/Framework/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3294" max-vertical-offset="7106">
+          <caret line="203" column="38" selection-start-line="203" selection-start-column="38" selection-end-line="203" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#addNotify#0;class#Board#0" expanded="false" />
+            <element signature="method#actionPerformed#0;class#Board#0" expanded="false" />
+            <element signature="e#16438#16439#0" expanded="true" />
+            <element signature="e#16516#16517#0" expanded="true" />
+            <element signature="e#16862#16863#0" expanded="true" />
+            <element signature="e#16923#16924#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/Classes/Mobs/Looper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+          <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GIG/Classes/Mobs/Joklop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="731">
+          <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI Test/src/Gui_Test/ENENENENbleRUUUU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55128205" vertical-offset="516" max-vertical-offset="1411">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>spigot 1.8.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>untitled</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>spigot 1.8.31</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
