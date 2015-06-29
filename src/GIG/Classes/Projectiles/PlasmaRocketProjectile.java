@@ -7,22 +7,32 @@ import GIG.Classes.Framework.Projectile;
 
 public class PlasmaRocketProjectile extends Projectile
 {
-    private String missile2 = "ProjectileTextures/Plasma Bolt.gif";
+    private String missile2 = "ProjectileTextures/godzilla_01.gif";
     private String explode  = "Textures/Explosion.gif";
     private int moveType;
     boolean isExploded;
     private int burnTimer;
     private int explodeY;
     private int explodeX;
-    
-    private final int SPEED = 4;
+    private boolean GodBulletnesszilla;
+    //private int Health;
+
+    private int SPEED;
 private int Ity;
 private int IgunX;
 private int IgunY;
 private int ImX;
 private int ImY;
-    public PlasmaRocketProjectile(int x, int y, int ty) {
-        
+    public PlasmaRocketProjectile(int x, int y, int ty, boolean GodBulletness) {
+        GodBulletnesszilla = GodBulletness;
+        if (!GodBulletnesszilla){
+            missile2 = "ProjectileTextures/Plasma Bolt.gif";
+            SPEED = 4;
+        } else if (GodBulletnesszilla){
+            missile2 = "ProjectileTextures/IMAFIRINMAHLAZOR.gif";
+            SPEED = 3;
+        }
+
         
         ImageIcon ii = new ImageIcon(this.getClass().getResource(missile2));
         image = ii.getImage();
@@ -85,8 +95,9 @@ private int ImY;
                 if (x > Board.B_WIDTH)
                     visible = false;
         } else if (Ity == 1) {
-        	x += ((ImX - IgunX)/100 );
-        	y += ((IgunY - ImY)/100 );
+        	//x += ((ImX - IgunX)/100 );
+        	//y += ((IgunY - ImY)/100 );
+            x += 1;
         	//if (x > Board.B_WIDTH)
                 //visible = false;
         	visible = true;
@@ -100,5 +111,9 @@ private int ImY;
             
             
         }
+    public boolean getGodBulletness(){
+        return GodBulletnesszilla;
+
+    }
     }
 

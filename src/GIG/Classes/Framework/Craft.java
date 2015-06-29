@@ -32,9 +32,10 @@ public class Craft extends Thing {
         y = Board.B_HEIGHT - 300;
     }
     
-    public void Fire(){
+    public void Fire(boolean GodBullet){
     	if (0 < 1){
-    	MISCLES.add(new PlasmaRocketProjectile((this.x + 230), (this.y + ((height / 2)-32)), 0));
+    	if(!GodBullet)MISCLES.add(new PlasmaRocketProjectile((this.x + 230), (this.y + ((height / 2)-32)), 0, GodBullet));
+            if(GodBullet)MISCLES.add(new PlasmaRocketProjectile((this.x + 230), (this.y + ((height / 2)-250)), 0, GodBullet));
     	}
     }
     
@@ -62,5 +63,7 @@ public class Craft extends Thing {
         }
         
     }
+
+
     
 }

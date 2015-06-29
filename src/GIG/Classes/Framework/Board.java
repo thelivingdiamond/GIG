@@ -8,6 +8,9 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.*;
 
+import javax.sound.sampled.AudioInputStream;
+import javax.sound.sampled.AudioSystem;
+import javax.sound.sampled.Clip;
 import javax.swing.Timer;
 import javax.swing.*;
 
@@ -22,8 +25,10 @@ public class Board extends JPanel implements MouseListener, MouseMotionListener,
     private ImageIcon ii = new ImageIcon(this.getClass().getResource(board));
     private Timer timer;
     public Craft craft;
+    public JButton resume = new JButton("Resume");
     public static int B_WIDTH;
     public static int B_HEIGHT;
+    public PauseMenu poo = new PauseMenu();
     @SuppressWarnings("rawtypes")
 	private ArrayList carbs = new ArrayList();
     private ArrayList eyeBallz = new ArrayList();
@@ -47,7 +52,9 @@ public class Board extends JPanel implements MouseListener, MouseMotionListener,
     
     @SuppressWarnings({ "rawtypes", "unchecked" })
 	public Board() {
-
+        setLayout(new GridBagLayout());
+        add(poo, new GridBagConstraints());
+        poo.setPreferredSize(new Dimension(200, 50));
         WinCheck = false;
         InGame = true;
     	setFocusable(true);
@@ -55,18 +62,39 @@ public class Board extends JPanel implements MouseListener, MouseMotionListener,
         setDoubleBuffered(true);
         setSize(Toolkit.getDefaultToolkit().getScreenSize());
         addNotify();
-        // Board a = this;
-        //addMouseListener(this);
-		//addMouseMotionListener(this);
+       //  Board a = new Board();
+       // this.addMouseListener(a.);
+        //Board poop = new Board();
+		//addMouseMotionListener(poop);
+        /*addMouseListener(new MouseAdapter() {
+
+
+
+            @Override
+            public void mousePressed(MouseEvent e) {
+
+
+
+            }
+
+            @Override
+            public void mouseReleased(MouseEvent e) {
+
+            }
+        });*/
         actors = new ArrayList();
         craft = new Craft();
         actors.add(craft);
         timer = new Timer(5, this);
         timer.start();
-        EyeBallzSpawn();
-        CarbSpawn();
+        //EyeBallzSpawn();
         //CarbSpawn();
-        EyeBallzSpawn();
+        buttonHandler bh = new buttonHandler();
+        resume.addActionListener(bh);
+        poo.add(resume);
+
+        //CarbSpawn();
+        //EyeBallzSpawn();
         getInputMap(JComponent.WHEN_IN_FOCUSED_WINDOW).put(KeyStroke.getKeyStroke("pressed W"), "pressedWAction");
         getActionMap().put("pressedWAction", new AbstractAction() {
                 @Override
@@ -129,14 +157,14 @@ public class Board extends JPanel implements MouseListener, MouseMotionListener,
                 public void actionPerformed(ActionEvent ae) {
                     if (craft.ENEGY>=8 && craft.canFire) {
 
-                        craft.Fire();
+                        craft.Fire(false);
 
                         counter_2 = 0;
 
                            craft.ENEGY -= 8;
                           // System.out.println("You Fired");
         }  else if (craft.ENEGY<=8 && craft.ENEGY>= 0 && craft.canFire) {
-        craft.Fire();
+        craft.Fire(false);
         craft.canFire=false;
         counter_2 = 40;
         //System.out.println("You Fired(Overheat)");
@@ -166,8 +194,11 @@ public class Board extends JPanel implements MouseListener, MouseMotionListener,
             public void actionPerformed(ActionEvent ae) {
                 if(STATES == STATE.MENU){
                     STATES = STATE.GAME;
+                    remove(poo);
+
                 } else if (STATES == STATE.GAME){
                     STATES = STATE.MENU;
+                    add(poo);
                 }
             }
         });
@@ -176,6 +207,7 @@ public class Board extends JPanel implements MouseListener, MouseMotionListener,
             @Override
             public void actionPerformed(ActionEvent ae) {
                 EyeBallzSpawn();
+                if (craft.ENEGY >= 0)craft.ENEGY -= 20;
             }
         });
         getInputMap(JComponent.WHEN_IN_FOCUSED_WINDOW).put(KeyStroke.getKeyStroke("pressed C"), "pressedCAction");
@@ -183,6 +215,16 @@ public class Board extends JPanel implements MouseListener, MouseMotionListener,
             @Override
             public void actionPerformed(ActionEvent ae) {
                 CarbSpawn();
+                if (craft.ENEGY >= 0)craft.ENEGY -= 20;
+            }
+        });
+        getInputMap(JComponent.WHEN_IN_FOCUSED_WINDOW).put(KeyStroke.getKeyStroke("pressed G"), "pressedGAction");
+        getActionMap().put("pressedGAction", new AbstractAction() {
+            @Override
+            public void actionPerformed(ActionEvent ae) {
+                //CarbSpawn();
+                craft.Fire(true);
+                playSound("FrameworkSounds/burp-1.wav");
             }
         });
     }
@@ -262,8 +304,9 @@ public class Board extends JPanel implements MouseListener, MouseMotionListener,
     }
 
 
-    public void actionPerformed(ActionEvent e) {        
-        
+    public void actionPerformed(ActionEvent e) {
+        //playSound("FrameworkSounds/burp-1.wav");
+        //playSound("FrameworkSounds/Bir Poop Splat-SoundBible.com-157212383.wav");
     	craft.move();
         for (int i = 0; i < actors.size(); i++) {
             Thing t = (Thing) actors.get(i);
@@ -421,8 +464,17 @@ if (craft.ENEGY == craft.maxEnegy) {craft.canFire = true;}
             
             //System.out.println("Apple Sauce");
             if (r1.intersects(r4)) {
-            	c.setVisible(false);
-            	c = null;
+                c.SetHealth(c.GetHealth() - 5);
+                if(!RP.getGodBulletness()) {
+                    RP.setVisible(false);
+                    RP = null;
+                }
+
+                if(c.GetHealth() <= 0) {
+                    c.setVisible(false);
+                    c = null;
+                }
+
             	//System.out.println("Apple Sauce2");
             }
             
@@ -434,8 +486,15 @@ if (craft.ENEGY == craft.maxEnegy) {craft.canFire = true;}
 
                 //System.out.println("Apple Sauce");
                 if (r1.intersects(r5)) {
-                    eb.setVisible(false);
-                    eb = null;
+                    eb.SetHealth(eb.GetHealth() - 5);
+                    if(!RP.getGodBulletness()) {
+                        RP.setVisible(false);
+                        RP = null;
+                    }
+                    if(eb.GetHealth() <= 0) {
+                        eb.setVisible(false);
+                        eb = null;
+                    }
                     //System.out.println("Apple Sauce2");
                 }
 
@@ -486,4 +545,59 @@ if (craft.ENEGY == craft.maxEnegy) {craft.canFire = true;}
     public void mouseClicked(MouseEvent e) {
        System.out.println("Mouse Clicked on diareah");
     }
+    private class buttonHandler implements ActionListener {
+        public void actionPerformed(ActionEvent e) {
+            if (e.getSource().equals(resume)) STATES = STATE.GAME;
+        }
+
+
+    }
+    public static synchronized void playSound(final String url) {
+        new Thread(new Runnable() {
+            // The wrapper thread is unnecessary, unless it blocks on the
+            // Clip finishing; see comments.
+            public void run() {
+                try {
+                    Clip clip = AudioSystem.getClip();
+                    AudioInputStream inputStream = AudioSystem.getAudioInputStream(
+                            this.getClass().getResourceAsStream(url));
+                    clip.open(inputStream);
+                    clip.start();
+                } catch (Exception e) {
+                    System.err.println(e.getMessage());
+                }
+            }
+        }).start();
+    }
+
+
+    private class MouseListenerObect implements MouseListener{
+
+        @Override
+        public void mouseClicked(MouseEvent e) {
+            System.out.println("Board Vicxki");
+        }
+
+        @Override
+        public void mousePressed(MouseEvent e) {
+
+        }
+
+        @Override
+        public void mouseReleased(MouseEvent e) {
+
+        }
+
+        @Override
+        public void mouseEntered(MouseEvent e) {
+
+        }
+
+        @Override
+        public void mouseExited(MouseEvent e) {
+
+        }
+    }
 }
+
+

@@ -11,7 +11,7 @@ import java.awt.event.ActionListener;
 public class ENENENble extends JPanel implements ActionListener{
     public ENENENble(){
         setFocusable(true);
-        setBackground(Color.PINK);
+        setBackground(Color.CYAN);
         setDoubleBuffered(true);
         setSize(Toolkit.getDefaultToolkit().getScreenSize());
         getInputMap(JComponent.WHEN_IN_FOCUSED_WINDOW).put(KeyStroke.getKeyStroke("pressed E"), "pressedEAction");

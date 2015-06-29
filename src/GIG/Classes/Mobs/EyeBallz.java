@@ -23,7 +23,8 @@ public class EyeBallz extends Emeny {
         y = height;
         leftBound=300;
         rightBound=1000;
-        dx = -5;
+        dx = -5
+        ;
     }
     public void move() {
         if (moveSwitch == 0) {

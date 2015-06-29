@@ -20,11 +20,13 @@ public Board board;
         setTitle("Galapagos' Gold");
         setResizable(false);
         setVisible(true);
-        //board.addMouseMotionListener(this);
-        addMouseMotionListener(this);
+
+
+        //board.addMouseMotionListener(board);
+        //addMouseMotionListener(this);
         addMouseListener(this);
-        // board.addMouseListener(board);
-        // board.addMouseMotionListener(board);
+         //board.addMouseListener(board);
+         //board.addMouseMotionListener(board);
     }
 
     public static void main(String[] args) {
@@ -57,9 +59,9 @@ public Board board;
 	public void mouseClicked(MouseEvent e) {
        System.out.println("Mouse Clicked");
        ArrayList<PlasmaRocketProjectile> poop;
-       poop = board.craft.GetMiscles();
-    	poop.add(new PlasmaRocketProjectile(board.craft.getX(), board.craft.getY(), 
-    			 e.getX(), e.getY(), 1));
+       //poop;
+        board.craft.GetMiscles().add(new PlasmaRocketProjectile(board.craft.getX(), board.craft.getY(),
+    			 e.getX(), e.getY(), 0));
     	
     }
 }

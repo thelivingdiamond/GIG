@@ -13,6 +13,7 @@ public class Carb extends Emeny {
     private int leftBound = 0;
     private int rightBound = 0;
     public Carb() {
+
         ImageIcon ii = new ImageIcon(this.getClass().getResource(carb));
         image = ii.getImage();
         
@@ -24,6 +25,8 @@ public class Carb extends Emeny {
         leftBound=300;
         rightBound=1000;
         dx = -3;
+        SetHealth(10);
+
     }
     public void move() {
         if (moveSwitch == 0) {
